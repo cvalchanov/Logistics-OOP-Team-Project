@@ -1,0 +1,180 @@
+29.07.2022 17:28:33 - sashoroman - logged in successfully
+29.07.2022 17:28:42 - sashoroman - logged out successfully
+29.07.2022 17:28:48 - pesho1baby - logged in successfully
+29.07.2022 17:29:02 - pesho1baby - created user: test
+29.07.2022 17:29:12 - pesho1baby - created customer with ID:5
+29.07.2022 17:29:22 - pesho1baby - created truck with ID:1005
+29.07.2022 17:29:30 - pesho1baby - viewed truck with ID: 1005
+29.07.2022 17:29:35 - pesho1baby - viewed the load of truck with ID: 1005
+29.07.2022 17:29:46 - pesho1baby - viewed user with username sashoroman
+29.07.2022 17:29:50 - pesho1baby - viewed customer with ID: 5
+29.07.2022 17:29:55 - pesho1baby - viewed all users
+29.07.2022 17:30:05 - pesho1baby - viewed all customers
+29.07.2022 17:30:11 - pesho1baby - viewed all trucks
+29.07.2022 17:30:19 - pesho1baby - viewed available trucks
+29.07.2022 17:30:42 - pesho1baby - removed user with username: test
+29.07.2022 17:30:54 - pesho1baby - removed customer with ID: 5
+29.07.2022 17:30:59 - pesho1baby - removed truck with ID: 1005
+29.07.2022 17:31:15 - pesho1baby - logged out successfully
+29.07.2022 17:40:12 - pesho1baby - logged in successfully
+29.07.2022 17:40:15 - pesho1baby - logged out successfully
+30.07.2022 14:43:48 - pesho1baby - logged in successfully
+30.07.2022 14:49:11 - pesho1baby - logged in successfully
+30.07.2022 14:54:25 - pesho1baby - logged in successfully
+30.07.2022 14:54:36 - pesho1baby - created delivery route #3
+30.07.2022 14:55:23 - pesho1baby - created pack 1
+30.07.2022 14:55:41 - pesho1baby - Truck 1001 added to route 3
+30.07.2022 15:05:06 - pesho1baby - logged in successfully
+30.07.2022 15:05:16 - pesho1baby - created delivery route #1
+30.07.2022 15:05:40 - pesho1baby - created pack 1
+30.07.2022 15:11:00 - pesho1baby - logged in successfully
+30.07.2022 15:11:11 - pesho1baby - created pack 2
+30.07.2022 15:11:50 - pesho1baby - created delivery route #2
+30.07.2022 15:27:04 - pesho1baby - logged in successfully
+30.07.2022 15:27:25 - pesho1baby - created pack 3
+30.07.2022 15:27:41 - pesho1baby - Truck 1001 added to route 2
+30.07.2022 15:33:16 - pesho1baby - logged in successfully
+30.07.2022 15:33:37 - pesho1baby - created pack 4
+30.07.2022 15:46:02 - pesho1baby - logged in successfully
+30.07.2022 15:46:16 - pesho1baby - created pack 5
+30.07.2022 15:49:20 - pesho1baby - logged in successfully
+30.07.2022 15:49:35 - pesho1baby - created pack 6
+30.07.2022 15:52:30 - pesho1baby - Added pack #6 to truck #1001
+30.07.2022 15:54:56 - pesho1baby - logged in successfully
+30.07.2022 16:06:03 - pesho1baby - logged in successfully
+30.07.2022 16:06:44 - pesho1baby - created pack 7
+30.07.2022 16:07:07 - pesho1baby - Added pack #7 to truck #1001
+30.07.2022 16:11:54 - pesho1baby - logged in successfully
+30.07.2022 16:12:11 - pesho1baby - created delivery route #1
+30.07.2022 16:12:31 - pesho1baby - created pack 1
+30.07.2022 16:12:45 - pesho1baby - Truck 1001 added to route 1
+30.07.2022 16:12:58 - pesho1baby - Added pack #1 to truck #1001
+30.07.2022 15:29:54 - sashoroman - logged in successfully
+30.07.2022 15:30:09 - sashoroman - logged out successfully
+30.07.2022 15:30:21 - goshkohubaveca - logged in successfully
+30.07.2022 15:30:25 - goshkohubaveca - viewed the log
+30.07.2022 16:11:49 - pesho1baby - logged in successfully
+30.07.2022 16:11:57 - pesho1baby - viewed the log
+30.07.2022 16:12:00 - pesho1baby - logged out successfully
+30.07.2022 18:00:43 - pesho1baby - logged in successfully
+30.07.2022 18:00:55 - pesho1baby - viewed the load of truck with ID: 1001
+30.07.2022 18:15:36 - pesho1baby - logged in successfully
+30.07.2022 18:16:47 - pesho1baby - logged in successfully
+30.07.2022 18:16:59 - pesho1baby - viewed the load of truck with ID: 1001
+30.07.2022 18:21:07 - pesho1baby - logged in successfully
+30.07.2022 18:21:25 - pesho1baby - viewed the load of truck with ID: 1001
+30.07.2022 18:23:01 - pesho1baby - logged in successfully
+30.07.2022 18:23:56 - pesho1baby - viewed the load of truck with ID: 1001
+30.07.2022 18:25:46 - pesho1baby - logged in successfully
+30.07.2022 18:28:44 - pesho1baby - viewed the load of truck with ID: 1001
+30.07.2022 18:32:05 - pesho1baby - logged in successfully
+30.07.2022 18:32:20 - pesho1baby - viewed the load of truck with ID: 1001
+30.07.2022 18:35:31 - pesho1baby - logged in successfully
+30.07.2022 18:36:02 - pesho1baby - viewed the load of truck with ID: 1001
+30.07.2022 19:05:57 - pesho1baby - logged in successfully
+30.07.2022 19:07:20 - pesho1baby - logged in successfully
+30.07.2022 19:07:33 - pesho1baby - viewed the load of truck with ID: 1001
+30.07.2022 20:42:09 - pesho1baby - logged in successfully
+30.07.2022 20:42:21 - pesho1baby - created delivery route #2
+30.07.2022 20:42:31 - pesho1baby - created pack 2
+30.07.2022 20:42:50 - pesho1baby - Truck 1001 added to route 2
+30.07.2022 20:43:30 - pesho1baby - Added pack #2 to truck #1001
+30.07.2022 20:44:27 - pesho1baby - viewed the load of truck with ID: 1001
+30.07.2022 21:56:02 - pesho1baby - logged in successfully
+30.07.2022 21:56:16 - pesho1baby - created delivery route #3
+30.07.2022 21:56:27 - pesho1baby - created pack 3
+30.07.2022 21:56:53 - pesho1baby - Truck 1001 added to route 3
+30.07.2022 21:57:08 - pesho1baby - Added pack #3 to truck #1001
+30.07.2022 21:57:20 - pesho1baby - viewed the load of truck with ID: 1001
+31.07.2022 00:01:38 - pesho1baby - logged in successfully
+31.07.2022 00:02:14 - pesho1baby - viewed available trucks
+31.07.2022 00:15:45 - pesho1baby - logged in successfully
+31.07.2022 00:31:43 - pesho1baby - logged in successfully
+31.07.2022 00:32:19 - pesho1baby - viewed the load of truck with ID: 1001
+31.07.2022 00:34:23 - pesho1baby - logged in successfully
+31.07.2022 11:36:00 - pesho1baby - logged in successfully
+31.07.2022 11:36:41 - pesho1baby - created truck with ID:1005
+31.07.2022 11:37:42 - pesho1baby - logged in successfully
+31.07.2022 11:37:46 - pesho1baby - created truck with ID:1001
+31.07.2022 11:37:48 - pesho1baby - created truck with ID:1002
+31.07.2022 11:37:49 - pesho1baby - created truck with ID:1003
+31.07.2022 11:37:50 - pesho1baby - created truck with ID:1004
+31.07.2022 11:38:00 - pesho1baby - created truck with ID:1005
+31.07.2022 11:38:01 - pesho1baby - created truck with ID:1006
+31.07.2022 11:38:01 - pesho1baby - created truck with ID:1007
+31.07.2022 11:38:02 - pesho1baby - created truck with ID:1008
+31.07.2022 11:38:03 - pesho1baby - created truck with ID:1009
+31.07.2022 11:38:05 - pesho1baby - created truck with ID:1010
+31.07.2022 11:38:32 - pesho1baby - created truck with ID:1011
+31.07.2022 11:38:33 - pesho1baby - created truck with ID:1012
+31.07.2022 11:38:34 - pesho1baby - created truck with ID:1013
+31.07.2022 11:38:35 - pesho1baby - created truck with ID:1014
+31.07.2022 11:38:35 - pesho1baby - created truck with ID:1015
+31.07.2022 11:38:36 - pesho1baby - created truck with ID:1016
+31.07.2022 11:38:37 - pesho1baby - created truck with ID:1017
+31.07.2022 11:38:37 - pesho1baby - created truck with ID:1018
+31.07.2022 11:38:38 - pesho1baby - created truck with ID:1019
+31.07.2022 11:38:39 - pesho1baby - created truck with ID:1020
+31.07.2022 11:38:45 - pesho1baby - created truck with ID:1021
+31.07.2022 11:38:46 - pesho1baby - created truck with ID:1022
+31.07.2022 11:38:46 - pesho1baby - created truck with ID:1023
+31.07.2022 11:38:47 - pesho1baby - created truck with ID:1024
+31.07.2022 11:38:48 - pesho1baby - created truck with ID:1025
+31.07.2022 11:39:13 - pesho1baby - created truck with ID:1026
+31.07.2022 11:39:14 - pesho1baby - created truck with ID:1027
+31.07.2022 11:39:15 - pesho1baby - created truck with ID:1028
+31.07.2022 11:39:16 - pesho1baby - created truck with ID:1029
+31.07.2022 11:39:17 - pesho1baby - created truck with ID:1030
+31.07.2022 11:39:17 - pesho1baby - created truck with ID:1031
+31.07.2022 11:39:18 - pesho1baby - created truck with ID:1032
+31.07.2022 11:39:18 - pesho1baby - created truck with ID:1033
+31.07.2022 11:39:19 - pesho1baby - created truck with ID:1034
+31.07.2022 11:39:19 - pesho1baby - created truck with ID:1035
+31.07.2022 11:39:20 - pesho1baby - created truck with ID:1036
+31.07.2022 11:39:20 - pesho1baby - created truck with ID:1037
+31.07.2022 11:39:21 - pesho1baby - created truck with ID:1038
+31.07.2022 11:39:22 - pesho1baby - created truck with ID:1039
+31.07.2022 11:39:22 - pesho1baby - created truck with ID:1040
+31.07.2022 11:39:34 - pesho1baby - viewed available trucks
+31.07.2022 11:41:07 - pesho1baby - logged in successfully
+31.07.2022 11:41:09 - pesho1baby - logged out successfully
+31.07.2022 11:41:15 - sashoroman - logged in successfully
+31.07.2022 11:41:21 - sashoroman - viewed available trucks
+31.07.2022 11:44:48 - sashoroman - viewed all trucks
+31.07.2022 11:45:15 - sashoroman - viewed available trucks
+31.07.2022 11:46:11 - sashoroman - viewed the load of truck with ID: 1001
+31.07.2022 11:46:39 - sashoroman - logged out successfully
+31.07.2022 11:46:53 - goshkohubaveca - logged in successfully
+31.07.2022 11:46:55 - goshkohubaveca - viewed the log
+31.07.2022 19:10:13 - pesho1baby - logged in successfully
+31.07.2022 19:12:20 - pesho1baby - logged in successfully
+31.07.2022 19:12:30 - pesho1baby - viewed routs in progress
+31.07.2022 19:12:56 - pesho1baby - viewed routs to SYD
+31.07.2022 19:41:33 - sashoroman - logged in successfully
+31.07.2022 19:41:37 - sashoroman - viewed all trucks
+31.07.2022 19:41:44 - sashoroman - logged out successfully
+31.07.2022 19:41:56 - pesho1baby - logged in successfully
+31.07.2022 19:42:31 - pesho1baby - created delivery route #4
+31.07.2022 19:43:21 - pesho1baby - viewed routs to SYD
+31.07.2022 19:43:47 - pesho1baby - viewed routs in progress
+31.07.2022 19:43:56 - pesho1baby - viewed the load of truck with ID: 1001
+31.07.2022 19:44:16 - pesho1baby - viewed user with username sashoroman
+31.07.2022 19:44:27 - pesho1baby - viewed the log
+31.07.2022 19:44:38 - pesho1baby - viewed customer with ID: 1
+31.07.2022 19:44:45 - pesho1baby - viewed available trucks
+31.07.2022 19:44:58 - pesho1baby - viewed all users
+31.07.2022 19:45:04 - pesho1baby - viewed all trucks
+31.07.2022 19:45:11 - pesho1baby - viewed all customers
+31.07.2022 19:45:23 - pesho1baby - created truck with ID:1041
+31.07.2022 19:45:44 - pesho1baby - created user: test
+31.07.2022 19:45:56 - pesho1baby - created customer with ID:5
+31.07.2022 19:46:05 - pesho1baby - removed truck with ID: 1041
+31.07.2022 19:46:12 - pesho1baby - removed user with username: test
+31.07.2022 19:46:19 - pesho1baby - removed customer with ID: 5
+31.07.2022 19:46:52 - pesho1baby - created pack 4
+31.07.2022 19:47:01 - pesho1baby - viewed unassigned packages
+31.07.2022 19:47:28 - pesho1baby - Truck 1002 added to route 4
+31.07.2022 19:47:59 - pesho1baby - Added pack #4 to truck #1002
+31.07.2022 19:48:23 - pesho1baby - created pack 5
+31.07.2022 19:48:24 - pesho1baby - created pack 6
+31.07.2022 19:48:58 - pesho1baby - added packs #5, #6 to truck #1002

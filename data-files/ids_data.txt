@@ -1,0 +1,4 @@
+truck_id 1040
+package_id 6
+route_id 4
+customer_id 4

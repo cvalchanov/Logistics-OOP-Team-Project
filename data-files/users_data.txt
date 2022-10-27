@@ -1,0 +1,3 @@
+pesho1baby admin1234 Pesho Peshov 000 manager
+goshkohubaveca super1234 Gosho Goshov 001 supervisor
+sashoroman emp1234 Sasho Roman 002 employee
